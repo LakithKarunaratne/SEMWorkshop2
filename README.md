@@ -2,8 +2,11 @@
 Files and contents related to Shell Eco Marathon Workshop held in Monash Malaysia
 
 # Install These
+
 Python 3.62 - https://www.python.org/downloads/ 
+
 PyCharm Community Edition - https://www.jetbrains.com/pycharm/download/
+
 GitHub - https://desktop.github.com/ 
 
 # Supplementary Fun Videos
