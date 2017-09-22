@@ -1,6 +1,9 @@
 # SEMWorkshop2
 Files and contents related to Shell Eco Marathon Workshop held in Monash Malaysia
 
+Presentation Slides : https://docs.google.com/a/monash.edu/presentation/d/1277WmhxRFs3iCjKo0lKNkX6fFC9H7Q6vRgKndHagG-A/edit?usp=sharing
+
+
 # Install These
 
 Python 3.62 - https://www.python.org/downloads/ 
