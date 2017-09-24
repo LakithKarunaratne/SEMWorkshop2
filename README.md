@@ -3,6 +3,15 @@ Files and contents related to Shell Eco Marathon Workshop held in Monash Malaysi
 
 Presentation Slides : https://docs.google.com/a/monash.edu/presentation/d/1277WmhxRFs3iCjKo0lKNkX6fFC9H7Q6vRgKndHagG-A/edit?usp=sharing
 
+# Additional Repos to Help you Learn
+
+Linux Kernal : https://github.com/torvalds/linux
+
+Apple's Swift Language: https://github.com/apple/swift
+
+Implementations of various algorithms using python: https://github.com/TheAlgorithms/Python
+
+Code Samples for Google Cloud Platform:  https://github.com/GoogleCloudPlatform/python-docs-samples
 
 # Install These
 
