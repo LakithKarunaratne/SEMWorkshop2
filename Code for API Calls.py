@@ -24,5 +24,5 @@ content = sheet.get_all_records()
 # print all recieved contents
 print(content)
 
-#comment
+#commands
 
