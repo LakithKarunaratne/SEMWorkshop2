@@ -1,4 +1,4 @@
-#
+# Anything Followed by a hashtag is a comment, this wont be executed
 #
 # This is a print function that's below this line
 
@@ -17,10 +17,10 @@ you can write essay
 
 
 """
-# print("hello world")
-#
-# print("Can i get cookies")
-#
+print("hello world")
+
+print("Can i get cookies")
+
 
 
 
