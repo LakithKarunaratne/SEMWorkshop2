@@ -23,10 +23,11 @@ GitHub - https://desktop.github.com/
 
 # Supplementary Fun Videos
  
-Music with Node.js - https://youtu.be/dIiwFzFvsmw?t=29m39s
-Related Repo : https://github.com/walmik/scribbletune
+Music with Node.js - https://youtu.be/dIiwFzFvsmw?t=29m39s / Related Repo : https://github.com/walmik/scribbletune
 
 Map of Computer Science - https://youtu.be/SzJ46YA_RaA
 
 Quantum Computers - https://youtu.be/JhHMJCUmq28
 
+Python Plays GTA V : https://youtu.be/nWJZ4w0HKz8?t=1m13s / Related Repo : https://github.com/Sentdex/pygta5
+Python steals a car : https://youtu.be/VRsmPvu0xj0?t=15m22s
