@@ -3,7 +3,10 @@ Files and contents related to Shell Eco Marathon Workshop held in Monash Malaysi
 
 Presentation Slides : https://docs.google.com/a/monash.edu/presentation/d/1277WmhxRFs3iCjKo0lKNkX6fFC9H7Q6vRgKndHagG-A/edit?usp=sharing
 
+Follow our social media pages to stay upto date: 
 
+Team Monash Shell Eco-Marathon Facebook page: https://www.facebook.com/SEMteammonash
+Team Monash Shell Eco-Marathon Instagram page: http://instagram.com/semteammonash/
 
 # Additional Repos to Help you Learn
 
